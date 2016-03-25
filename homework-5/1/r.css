@@ -1,0 +1,44 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+
+background-image: url(http://www.galatview.com/english/wp-content/uploads/2013/12/fashion-industry-1.jpg);
+background-repeat: no-repeat;
+height: 100%
+}
+
+
+a{
+
+display: block;
+text-decoration: none;
+margin: 25px;
+padding-top: 300px;
+position: relative;
+color: #ECDFF0;
+
+}
+.container {
+
+font-family: Argentine Bold;
+}
+img{
+width: auto;
+height: auto;
+}
+h1{
+font-size: 30px;
+font-family: cursive;
+color: #8FCCF2;
+}
+h2{font-size: 20px;
+font-family: monospace;;
+color: #F2B58F;
+}
+h3{
+font-size: 15px;
+font-family: sans-serif;
+
+}
